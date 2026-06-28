@@ -60,8 +60,8 @@ const ques = [
   },
   {
     question: "10. Which HTML tag is used to insert an image?",
-    Option: ["<image>", "<img>", "<src>", "<picture>"],
-    answer: "<img>"
+    Option: ["image", "img", "src", "picture"],
+    answer: "img"
   }
 ];
 
